@@ -1,0 +1,16 @@
+#ofertas-containers {
+    display: flex;
+    justify-content: space-between;
+
+}
+#ofertas-containers div:first-child{
+    width: 30%;
+}
+#ofertas-containers div{
+    width: 23%;
+    display: grid;
+    align-items: center;
+}
+hr {
+    width: 99%;
+}
